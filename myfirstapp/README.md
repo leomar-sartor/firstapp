@@ -1,18 +1,18 @@
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# Criando meu primeiro APP
+# Criando meu primeiro Aplicativo com React Native
 
 >**Note**: Suponde que você já tenha o ambiente configurado para desenvolvimento mobile.
 
->**Note**: Existem duas maneiras de criarmos um aplicativo com React Native. Primeira delas é com EXPO (Wrapper). A segunda que abordaremos aqui é a nativa, ou seja, React Native CLI (Command Line Interface). Ficou curioso e quer entender mais sobre uma ou outra, acesse https://medium.com/@joelbanzatto/expo-ou-cli-como-decidir-ac4dec28e608.
+>**Note**: Existem duas maneiras de criarmos um aplicativo com React Native. Primeira delas é com EXPO (Wrapper). A segunda que abordaremos aqui é a nativa, ou seja, React Native CLI (Command Line Interface). Ficou curioso e quer entender mais sobre uma ou outra [clique aqui](https://medium.com/@joelbanzatto/expo-ou-cli-como-decidir-ac4dec28e608).
 
 Passo a passo
 
 ## 1️⃣ Instalar o YARN
 
->**Note**: Gerenciador de pacotes de minha preferência. Não sabe o que é? Tudo bem! só clicar aqui https://rockcontent.com/br/blog/yarn/.
+>**Note**: Gerenciador de pacotes de minha preferência. Não sabe o que é? Tudo bem! [só clicar aqui](https://rockcontent.com/br/blog/yarn/).
 
 ```bash
 # instalando o Yarn
@@ -27,7 +27,7 @@ Significa Commando Line Interface, ou seja, É um pacote para criar templates de
 npm install -g react-native-cli
 ```
 
-## Passo 3: Instalar React Native 
+## :three: Instalar React Native 
 
 É o Framework para desenvolvimento Mobile (Android e IOS)
 
@@ -35,44 +35,42 @@ npm install -g react-native-cli
 npm install -g react-native
 ```
 
-## Passo 4: Criar Template Inicial do Projeto
+## :four: Criar Template Inicial do Projeto
 
 ```bash
 # myfirstapp = nome_do_seu_projeto
 npx react-native init myfirstapp
 ```
 
-## Passo 5: Acessar o projeto
+## :five: Acessar o projeto
 
 ```bash
 # myfirstapp = nome_do_seu_projeto
 cd myfirstapp
 ```
 
-## Passo 6: Rodar o Aplicativo
+## :six: Rodar o Aplicativo
 
 ### Android
 
 ```bash
-# OR using Yarn
 yarn android
 ```
 
 ### IOS
 
 ```bash
-# OR using Yarn
 yarn ios
 ```
 
 Se o ambiente e emulador estiverem configurados adequadamente, depois de um demorazinha, Voilá! 
 
-> :smile:
+# :smile:
 
 Só correr pro abraço amigo!
 
 
-![Projeto Rodando](https://github.com/leomar-sartor/firstapp/ProjetoRodando.png)
+![Projeto Rodando](https://github.com/leomar-sartor/firstapp/blob/main/myfirstapp/ProjetoRodando.png)
 
 # 🛠️ Ferramentas e Versões utilizadas
 
