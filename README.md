@@ -1,5 +1,5 @@
 <p align="center">
-<img loading="lazy" src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 # Criando meu primeiro Aplicativo com React Native
